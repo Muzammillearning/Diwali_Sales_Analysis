@@ -1,5 +1,7 @@
 # Diwali_Sales_Analysis
 
+**Dataset**: https://www.kaggle.com/datasets/prajwal6362venom/diwali-sales/
+
 **Key Highlights:**
 
 - **Gender Analysis:** Explored the distribution of buyers by gender and compared their purchasing power.
